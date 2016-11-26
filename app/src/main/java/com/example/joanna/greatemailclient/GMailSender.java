@@ -1,13 +1,21 @@
 package com.example.joanna.greatemailclient;
 
+import javax.activation.CommandMap;
 import javax.activation.DataHandler;
+import javax.activation.FileDataSource;
+import javax.activation.MailcapCommandMap;
+import javax.mail.BodyPart;
 import javax.mail.Message;
+import javax.mail.Multipart;
 import javax.mail.PasswordAuthentication;
 import javax.activation.DataSource;
 import javax.mail.Transport;
 import javax.mail.Session;
+import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.InternetAddress;
+import javax.mail.internet.MimeMultipart;
+
 import java.io.IOException;
 import java.io.ByteArrayInputStream;
 import java.io.OutputStream;
@@ -50,6 +58,13 @@ public class GMailSender extends javax.mail.Authenticator {
     }
 
     public synchronized void sendMail(String subject, String body, String sender, String recipients) throws Exception {
+        MailcapCommandMap mc = (MailcapCommandMap) CommandMap.getDefaultCommandMap();
+        mc.addMailcap("text/html;; x-java-content-handler=com.sun.mail.handlers.text_html");
+        mc.addMailcap("text/xml;; x-java-content-handler=com.sun.mail.handlers.text_xml");
+        mc.addMailcap("text/plain;; x-java-content-handler=com.sun.mail.handlers.text_plain");
+        mc.addMailcap("multipart/*;; x-java-content-handler=com.sun.mail.handlers.multipart_mixed");
+        mc.addMailcap("message/rfc822;; x-java-content- handler=com.sun.mail.handlers.message_rfc822");
+
         try{
             MimeMessage message = new MimeMessage(session);
             DataHandler handler = new DataHandler(new ByteArrayDataSource(body.getBytes(), "text/plain"));
@@ -60,6 +75,21 @@ public class GMailSender extends javax.mail.Authenticator {
                 message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(recipients));
             else
                 message.setRecipient(Message.RecipientType.TO, new InternetAddress(recipients));
+
+            BodyPart mbp = new MimeBodyPart();
+            mbp.setText(body);
+
+            Multipart mp = new MimeMultipart();
+            mp.addBodyPart(mbp);
+
+            mbp = new MimeBodyPart();
+            String filename = "/storage/emulated/0/Android/data/com.example.android.camera2basic/files/pic.jpg";
+            DataSource source = new FileDataSource(filename);
+            mbp.setDataHandler(new DataHandler(source));
+            mbp.setFileName(filename);
+            mp.addBodyPart(mbp);
+            message.setContent(mp);
+
             Transport.send(message);
         }catch(Exception e){
             Log.e("[Send Mail]", "woops" + e);
@@ -73,15 +103,6 @@ public class GMailSender extends javax.mail.Authenticator {
         public ByteArrayDataSource(byte[] data, String type) {
             super();
             this.data = data;
-            this.type = type;
-        }
-
-        public ByteArrayDataSource(byte[] data) {
-            super();
-            this.data = data;
-        }
-
-        public void setType(String type) {
             this.type = type;
         }
 

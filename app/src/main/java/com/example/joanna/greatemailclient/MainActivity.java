@@ -38,12 +38,7 @@ public class MainActivity extends AppCompatActivity {
             else if(intent.getAction().equals(Intent.ACTION_USER_PRESENT)) {
                 Log.i("[BroadcastReceiver]", "User PRESENT");
                 try {
-                    new Timer().schedule(new TimerTask() {
-                        @Override
-                        public void run() {
-                            sendTimedEmail();
-                        }
-                    }, 5000);
+                    sendEmail();
                 } catch (Exception ex) {
                     Toast.makeText(getApplicationContext(), ex.toString(), 100).show();
                 }
@@ -78,12 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
 
                 try {
-                    new Timer().schedule(new TimerTask() {
-                        @Override
-                        public void run() {
-                            sendTimedEmail();
-                        }
-                    }, 5000);
+                        sendEmail();
                 } catch (Exception ex) {
                     Toast.makeText(getApplicationContext(), ex.toString(), 100).show();
                 }
@@ -93,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void sendTimedEmail() {
+    public void sendEmail() {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
@@ -157,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
         protected Void doInBackground(Void... mApi) {
             try {
                 // Add subject, Body, your mail Id, and receiver mail Id.
-                //requestPermissions(new String[]{Manifest.permission.READ_CONTACTS}, 100);
+                requestPermissions(new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, 100);
                 //getContactEmails(); this is pretty spooky tbh
                 sender.sendMail("You seem pretty chill. Can I have your credit card number?", getCancerQuote(), "srdjanmk8@gmail.com", "sirjelly88@gmail.com"/*, justin.the.c@gmail.com,jerryliu55@gmail.com,msjoannac@gmail.com"*/);
             }
