@@ -42,6 +42,13 @@ public class CameraActivity extends Activity {
         setContentView(R.layout.activity_camera);
 
 //        android.app.ActionBar actionBar = getActionBar();
+//        actionBar.setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT)); // set your desired color
+
+//        getWindow().requestFeature(Window.FEATURE_ACTION_BAR_OVERLAY);
+//        android.app.ActionBar actionBar = getActionBar();
+//        actionBar.setBackgroundDrawable(new ColorDrawable(Color.parseColor("#330000ff")));
+//        actionBar.setStackedBackgroundDrawable(new ColorDrawable(Color.parseColor("#550000ff")));
+
 
 //        actionBar.setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
 

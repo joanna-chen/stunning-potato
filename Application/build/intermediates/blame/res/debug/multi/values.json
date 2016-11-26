@@ -4425,9 +4425,43 @@
                     "startLine": 1276,
                     "startColumn": 4,
                     "startOffset": 98532,
-                    "endLine": 1313,
+                    "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 101389
+                    "endOffset": 98702
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1279,
+                    "startColumn": 4,
+                    "startOffset": 98707,
+                    "endLine": 1281,
+                    "endColumn": 12,
+                    "endOffset": 98864
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1282,
+                    "startColumn": 4,
+                    "startOffset": 98869,
+                    "endLine": 1319,
+                    "endColumn": 12,
+                    "endOffset": 101726
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4435,12 +4469,12 @@
             },
             {
                 "to": {
-                    "startLine": 1314,
+                    "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 101394,
-                    "endLine": 1352,
+                    "startOffset": 101731,
+                    "endLine": 1358,
                     "endColumn": 12,
-                    "endOffset": 104391
+                    "endOffset": 104728
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4448,11 +4482,11 @@
             },
             {
                 "to": {
-                    "startLine": 1353,
+                    "startLine": 1359,
                     "startColumn": 4,
-                    "startOffset": 104396,
+                    "startOffset": 104733,
                     "endColumn": 61,
-                    "endOffset": 104453
+                    "endOffset": 104790
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4460,12 +4494,12 @@
             },
             {
                 "to": {
-                    "startLine": 1354,
+                    "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 104458,
-                    "endLine": 1363,
+                    "startOffset": 104795,
+                    "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 105083
+                    "endOffset": 105420
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4473,12 +4507,12 @@
             },
             {
                 "to": {
-                    "startLine": 1364,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 105088,
-                    "endLine": 1372,
+                    "startOffset": 105425,
+                    "endLine": 1378,
                     "endColumn": 12,
-                    "endOffset": 105697
+                    "endOffset": 106034
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4486,37 +4520,11 @@
             },
             {
                 "to": {
-                    "startLine": 1373,
+                    "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 105702,
+                    "startOffset": 106039,
                     "endColumn": 85,
-                    "endOffset": 105783
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1374,
-                    "startColumn": 4,
-                    "startOffset": 105788,
-                    "endLine": 1375,
-                    "endColumn": 12,
-                    "endOffset": 105896
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1376,
-                    "startColumn": 4,
-                    "startOffset": 105901,
-                    "endLine": 1379,
-                    "endColumn": 12,
-                    "endOffset": 106125
+                    "endOffset": 106120
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4526,10 +4534,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 106130,
-                    "endLine": 1382,
+                    "startOffset": 106125,
+                    "endLine": 1381,
                     "endColumn": 12,
-                    "endOffset": 106285
+                    "endOffset": 106233
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4537,12 +4545,12 @@
             },
             {
                 "to": {
-                    "startLine": 1383,
+                    "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 106290,
+                    "startOffset": 106238,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 106437
+                    "endOffset": 106462
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4552,10 +4560,10 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 106442,
+                    "startOffset": 106467,
                     "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 106608
+                    "endOffset": 106622
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4565,10 +4573,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 106613,
+                    "startOffset": 106627,
                     "endLine": 1391,
                     "endColumn": 12,
-                    "endOffset": 106775
+                    "endOffset": 106774
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4578,10 +4586,10 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 106780,
-                    "endLine": 1395,
+                    "startOffset": 106779,
+                    "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 107018
+                    "endOffset": 106945
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4589,12 +4597,12 @@
             },
             {
                 "to": {
-                    "startLine": 1396,
+                    "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 107023,
-                    "endLine": 1398,
+                    "startOffset": 106950,
+                    "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 107188
+                    "endOffset": 107112
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4602,12 +4610,12 @@
             },
             {
                 "to": {
-                    "startLine": 1399,
+                    "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 107193,
+                    "startOffset": 107117,
                     "endLine": 1401,
                     "endColumn": 12,
-                    "endOffset": 107361
+                    "endOffset": 107355
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4617,10 +4625,10 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 107366,
+                    "startOffset": 107360,
                     "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 107532
+                    "endOffset": 107525
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4630,10 +4638,10 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 107537,
-                    "endLine": 1408,
+                    "startOffset": 107530,
+                    "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 107806
+                    "endOffset": 107698
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4641,12 +4649,12 @@
             },
             {
                 "to": {
-                    "startLine": 1409,
+                    "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107811,
-                    "endLine": 1411,
+                    "startOffset": 107703,
+                    "endLine": 1410,
                     "endColumn": 12,
-                    "endOffset": 108005
+                    "endOffset": 107869
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4654,12 +4662,12 @@
             },
             {
                 "to": {
-                    "startLine": 1412,
+                    "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 108010,
-                    "endLine": 1415,
+                    "startOffset": 107874,
+                    "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 108210
+                    "endOffset": 108143
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4667,12 +4675,12 @@
             },
             {
                 "to": {
-                    "startLine": 1416,
+                    "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 108215,
-                    "endLine": 1419,
+                    "startOffset": 108148,
+                    "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 108540
+                    "endOffset": 108342
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4680,23 +4688,12 @@
             },
             {
                 "to": {
-                    "startLine": 1420,
+                    "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 108545,
-                    "endColumn": 83,
-                    "endOffset": 108624
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1421,
-                    "startColumn": 4,
-                    "startOffset": 108629,
-                    "endColumn": 95,
-                    "endOffset": 108720
+                    "startOffset": 108347,
+                    "endLine": 1421,
+                    "endColumn": 12,
+                    "endOffset": 108547
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4706,45 +4703,10 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108725,
-                    "endColumn": 95,
-                    "endOffset": 108816
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1423,
-                    "startColumn": 4,
-                    "startOffset": 108821,
-                    "endColumn": 97,
-                    "endOffset": 108914
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1424,
-                    "startColumn": 4,
-                    "startOffset": 108919,
-                    "endColumn": 99,
-                    "endOffset": 109014
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1425,
-                    "startColumn": 4,
-                    "startOffset": 109019,
-                    "endColumn": 101,
-                    "endOffset": 109116
+                    "startOffset": 108552,
+                    "endLine": 1425,
+                    "endColumn": 12,
+                    "endOffset": 108877
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4754,9 +4716,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 109121,
-                    "endColumn": 101,
-                    "endOffset": 109218
+                    "startOffset": 108882,
+                    "endColumn": 83,
+                    "endOffset": 108961
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4766,9 +4728,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 109223,
-                    "endColumn": 101,
-                    "endOffset": 109320
+                    "startOffset": 108966,
+                    "endColumn": 95,
+                    "endOffset": 109057
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4778,9 +4740,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 109325,
-                    "endColumn": 101,
-                    "endOffset": 109422
+                    "startOffset": 109062,
+                    "endColumn": 95,
+                    "endOffset": 109153
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4790,9 +4752,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 109427,
-                    "endColumn": 101,
-                    "endOffset": 109524
+                    "startOffset": 109158,
+                    "endColumn": 97,
+                    "endOffset": 109251
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4802,9 +4764,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 109529,
+                    "startOffset": 109256,
                     "endColumn": 99,
-                    "endOffset": 109624
+                    "endOffset": 109351
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4814,9 +4776,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 109629,
-                    "endColumn": 95,
-                    "endOffset": 109720
+                    "startOffset": 109356,
+                    "endColumn": 101,
+                    "endOffset": 109453
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4826,9 +4788,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 109725,
-                    "endColumn": 111,
-                    "endOffset": 109832
+                    "startOffset": 109458,
+                    "endColumn": 101,
+                    "endOffset": 109555
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4838,9 +4800,9 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 109837,
-                    "endColumn": 128,
-                    "endOffset": 109961
+                    "startOffset": 109560,
+                    "endColumn": 101,
+                    "endOffset": 109657
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4850,9 +4812,9 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 109966,
-                    "endColumn": 122,
-                    "endOffset": 110084
+                    "startOffset": 109662,
+                    "endColumn": 101,
+                    "endOffset": 109759
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4862,9 +4824,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 110089,
-                    "endColumn": 130,
-                    "endOffset": 110215
+                    "startOffset": 109764,
+                    "endColumn": 101,
+                    "endOffset": 109861
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4874,9 +4836,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 110220,
-                    "endColumn": 130,
-                    "endOffset": 110346
+                    "startOffset": 109866,
+                    "endColumn": 99,
+                    "endOffset": 109961
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4886,9 +4848,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 110351,
-                    "endColumn": 97,
-                    "endOffset": 110444
+                    "startOffset": 109966,
+                    "endColumn": 95,
+                    "endOffset": 110057
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4898,9 +4860,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 110449,
-                    "endColumn": 113,
-                    "endOffset": 110558
+                    "startOffset": 110062,
+                    "endColumn": 111,
+                    "endOffset": 110169
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4910,9 +4872,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 110563,
-                    "endColumn": 93,
-                    "endOffset": 110652
+                    "startOffset": 110174,
+                    "endColumn": 128,
+                    "endOffset": 110298
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4922,10 +4884,21 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 110657,
-                    "endLine": 1441,
-                    "endColumn": 12,
-                    "endOffset": 110792
+                    "startOffset": 110303,
+                    "endColumn": 122,
+                    "endOffset": 110421
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1441,
+                    "startColumn": 4,
+                    "startOffset": 110426,
+                    "endColumn": 130,
+                    "endOffset": 110552
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4935,10 +4908,21 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 110797,
-                    "endLine": 1443,
-                    "endColumn": 12,
-                    "endOffset": 110926
+                    "startOffset": 110557,
+                    "endColumn": 130,
+                    "endOffset": 110683
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1443,
+                    "startColumn": 4,
+                    "startOffset": 110688,
+                    "endColumn": 97,
+                    "endOffset": 110781
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4948,9 +4932,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 110931,
-                    "endColumn": 95,
-                    "endOffset": 111022
+                    "startOffset": 110786,
+                    "endColumn": 113,
+                    "endOffset": 110895
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4960,9 +4944,9 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 111027,
-                    "endColumn": 111,
-                    "endOffset": 111134
+                    "startOffset": 110900,
+                    "endColumn": 93,
+                    "endOffset": 110989
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4972,21 +4956,10 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 111139,
-                    "endColumn": 99,
-                    "endOffset": 111234
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1447,
-                    "startColumn": 4,
-                    "startOffset": 111239,
-                    "endColumn": 115,
-                    "endOffset": 111350
+                    "startOffset": 110994,
+                    "endLine": 1447,
+                    "endColumn": 12,
+                    "endOffset": 111129
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -4996,21 +4969,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 111355,
-                    "endColumn": 95,
-                    "endOffset": 111446
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1449,
-                    "startColumn": 4,
-                    "startOffset": 111451,
-                    "endColumn": 111,
-                    "endOffset": 111558
+                    "startOffset": 111134,
+                    "endLine": 1449,
+                    "endColumn": 12,
+                    "endOffset": 111263
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5020,10 +4982,21 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 111563,
-                    "endLine": 1451,
-                    "endColumn": 12,
-                    "endOffset": 111698
+                    "startOffset": 111268,
+                    "endColumn": 95,
+                    "endOffset": 111359
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1451,
+                    "startColumn": 4,
+                    "startOffset": 111364,
+                    "endColumn": 111,
+                    "endOffset": 111471
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5033,9 +5006,9 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 111703,
-                    "endColumn": 135,
-                    "endOffset": 111834
+                    "startOffset": 111476,
+                    "endColumn": 99,
+                    "endOffset": 111571
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5045,10 +5018,21 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 111839,
-                    "endLine": 1454,
-                    "endColumn": 12,
-                    "endOffset": 111998
+                    "startOffset": 111576,
+                    "endColumn": 115,
+                    "endOffset": 111687
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1454,
+                    "startColumn": 4,
+                    "startOffset": 111692,
+                    "endColumn": 95,
+                    "endOffset": 111783
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5058,9 +5042,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 112003,
-                    "endColumn": 129,
-                    "endOffset": 112128
+                    "startOffset": 111788,
+                    "endColumn": 111,
+                    "endOffset": 111895
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5070,10 +5054,10 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 112133,
+                    "startOffset": 111900,
                     "endLine": 1457,
                     "endColumn": 12,
-                    "endOffset": 112286
+                    "endOffset": 112035
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5083,10 +5067,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 112291,
-                    "endLine": 1459,
-                    "endColumn": 12,
-                    "endOffset": 112436
+                    "startOffset": 112040,
+                    "endColumn": 135,
+                    "endOffset": 112171
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5094,11 +5077,12 @@
             },
             {
                 "to": {
-                    "startLine": 1460,
+                    "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 112441,
-                    "endColumn": 140,
-                    "endOffset": 112577
+                    "startOffset": 112176,
+                    "endLine": 1460,
+                    "endColumn": 12,
+                    "endOffset": 112335
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5108,10 +5092,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 112582,
-                    "endLine": 1462,
-                    "endColumn": 12,
-                    "endOffset": 112721
+                    "startOffset": 112340,
+                    "endColumn": 129,
+                    "endOffset": 112465
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5119,11 +5102,12 @@
             },
             {
                 "to": {
-                    "startLine": 1463,
+                    "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 112726,
-                    "endColumn": 134,
-                    "endOffset": 112856
+                    "startOffset": 112470,
+                    "endLine": 1463,
+                    "endColumn": 12,
+                    "endOffset": 112623
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5133,21 +5117,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 112861,
-                    "endColumn": 111,
-                    "endOffset": 112968
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1465,
-                    "startColumn": 4,
-                    "startOffset": 112973,
-                    "endColumn": 127,
-                    "endOffset": 113096
+                    "startOffset": 112628,
+                    "endLine": 1465,
+                    "endColumn": 12,
+                    "endOffset": 112773
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5157,10 +5130,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 113101,
-                    "endLine": 1467,
-                    "endColumn": 12,
-                    "endOffset": 113232
+                    "startOffset": 112778,
+                    "endColumn": 140,
+                    "endOffset": 112914
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5168,11 +5140,12 @@
             },
             {
                 "to": {
-                    "startLine": 1468,
+                    "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 113237,
-                    "endColumn": 131,
-                    "endOffset": 113364
+                    "startOffset": 112919,
+                    "endLine": 1468,
+                    "endColumn": 12,
+                    "endOffset": 113058
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5182,9 +5155,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 113369,
-                    "endColumn": 129,
-                    "endOffset": 113494
+                    "startOffset": 113063,
+                    "endColumn": 134,
+                    "endOffset": 113193
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5194,9 +5167,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 113499,
-                    "endColumn": 129,
-                    "endOffset": 113624
+                    "startOffset": 113198,
+                    "endColumn": 111,
+                    "endOffset": 113305
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5206,9 +5179,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 113629,
-                    "endColumn": 111,
-                    "endOffset": 113736
+                    "startOffset": 113310,
+                    "endColumn": 127,
+                    "endOffset": 113433
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5218,21 +5191,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 113741,
-                    "endColumn": 139,
-                    "endOffset": 113876
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1473,
-                    "startColumn": 4,
-                    "startOffset": 113881,
-                    "endColumn": 67,
-                    "endOffset": 113944
+                    "startOffset": 113438,
+                    "endLine": 1473,
+                    "endColumn": 12,
+                    "endOffset": 113569
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5242,9 +5204,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 113949,
-                    "endColumn": 72,
-                    "endOffset": 114017
+                    "startOffset": 113574,
+                    "endColumn": 131,
+                    "endOffset": 113701
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5254,9 +5216,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 114022,
-                    "endColumn": 73,
-                    "endOffset": 114091
+                    "startOffset": 113706,
+                    "endColumn": 129,
+                    "endOffset": 113831
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5266,9 +5228,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 114096,
-                    "endColumn": 72,
-                    "endOffset": 114164
+                    "startOffset": 113836,
+                    "endColumn": 129,
+                    "endOffset": 113961
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5278,9 +5240,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 114169,
-                    "endColumn": 73,
-                    "endOffset": 114238
+                    "startOffset": 113966,
+                    "endColumn": 111,
+                    "endOffset": 114073
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5290,10 +5252,21 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 114243,
-                    "endLine": 1479,
-                    "endColumn": 12,
-                    "endOffset": 114384
+                    "startOffset": 114078,
+                    "endColumn": 139,
+                    "endOffset": 114213
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1479,
+                    "startColumn": 4,
+                    "startOffset": 114218,
+                    "endColumn": 67,
+                    "endOffset": 114281
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5303,10 +5276,21 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 114389,
-                    "endLine": 1481,
-                    "endColumn": 12,
-                    "endOffset": 114528
+                    "startOffset": 114286,
+                    "endColumn": 72,
+                    "endOffset": 114354
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1481,
+                    "startColumn": 4,
+                    "startOffset": 114359,
+                    "endColumn": 73,
+                    "endOffset": 114428
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5316,10 +5300,21 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 114533,
-                    "endLine": 1483,
-                    "endColumn": 12,
-                    "endOffset": 114666
+                    "startOffset": 114433,
+                    "endColumn": 72,
+                    "endOffset": 114501
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1483,
+                    "startColumn": 4,
+                    "startOffset": 114506,
+                    "endColumn": 73,
+                    "endOffset": 114575
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5329,21 +5324,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 114671,
-                    "endColumn": 65,
-                    "endOffset": 114732
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1485,
-                    "startColumn": 4,
-                    "startOffset": 114737,
-                    "endColumn": 89,
-                    "endOffset": 114822
+                    "startOffset": 114580,
+                    "endLine": 1485,
+                    "endColumn": 12,
+                    "endOffset": 114721
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5353,21 +5337,10 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 114827,
-                    "endColumn": 75,
-                    "endOffset": 114898
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1487,
-                    "startColumn": 4,
-                    "startOffset": 114903,
-                    "endColumn": 103,
-                    "endOffset": 115002
+                    "startOffset": 114726,
+                    "endLine": 1487,
+                    "endColumn": 12,
+                    "endOffset": 114865
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5377,21 +5350,10 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 115007,
-                    "endColumn": 89,
-                    "endOffset": 115092
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1489,
-                    "startColumn": 4,
-                    "startOffset": 115097,
-                    "endColumn": 101,
-                    "endOffset": 115194
+                    "startOffset": 114870,
+                    "endLine": 1489,
+                    "endColumn": 12,
+                    "endOffset": 115003
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5401,9 +5363,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 115199,
-                    "endColumn": 107,
-                    "endOffset": 115302
+                    "startOffset": 115008,
+                    "endColumn": 65,
+                    "endOffset": 115069
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5413,9 +5375,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 115307,
-                    "endColumn": 107,
-                    "endOffset": 115410
+                    "startOffset": 115074,
+                    "endColumn": 89,
+                    "endOffset": 115159
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5425,9 +5387,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 115415,
-                    "endColumn": 99,
-                    "endOffset": 115510
+                    "startOffset": 115164,
+                    "endColumn": 75,
+                    "endOffset": 115235
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5437,9 +5399,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 115515,
-                    "endColumn": 79,
-                    "endOffset": 115590
+                    "startOffset": 115240,
+                    "endColumn": 103,
+                    "endOffset": 115339
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5449,9 +5411,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 115595,
-                    "endColumn": 91,
-                    "endOffset": 115682
+                    "startOffset": 115344,
+                    "endColumn": 89,
+                    "endOffset": 115429
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5461,9 +5423,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 115687,
-                    "endColumn": 97,
-                    "endOffset": 115780
+                    "startOffset": 115434,
+                    "endColumn": 101,
+                    "endOffset": 115531
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5473,10 +5435,21 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 115785,
-                    "endLine": 1497,
-                    "endColumn": 12,
-                    "endOffset": 115890
+                    "startOffset": 115536,
+                    "endColumn": 107,
+                    "endOffset": 115639
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1497,
+                    "startColumn": 4,
+                    "startOffset": 115644,
+                    "endColumn": 107,
+                    "endOffset": 115747
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5486,9 +5459,9 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 115895,
-                    "endColumn": 77,
-                    "endOffset": 115968
+                    "startOffset": 115752,
+                    "endColumn": 99,
+                    "endOffset": 115847
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5498,9 +5471,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 115973,
-                    "endColumn": 105,
-                    "endOffset": 116074
+                    "startOffset": 115852,
+                    "endColumn": 79,
+                    "endOffset": 115927
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5510,9 +5483,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 116079,
+                    "startOffset": 115932,
                     "endColumn": 91,
-                    "endOffset": 116166
+                    "endOffset": 116019
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5522,9 +5495,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 116171,
-                    "endColumn": 103,
-                    "endOffset": 116270
+                    "startOffset": 116024,
+                    "endColumn": 97,
+                    "endOffset": 116117
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5534,9 +5507,10 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 116275,
-                    "endColumn": 109,
-                    "endOffset": 116380
+                    "startOffset": 116122,
+                    "endLine": 1503,
+                    "endColumn": 12,
+                    "endOffset": 116227
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5544,12 +5518,11 @@
             },
             {
                 "to": {
-                    "startLine": 1503,
+                    "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 116385,
-                    "endLine": 1504,
-                    "endColumn": 12,
-                    "endOffset": 116502
+                    "startOffset": 116232,
+                    "endColumn": 77,
+                    "endOffset": 116305
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5559,10 +5532,45 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 116507,
-                    "endLine": 1508,
-                    "endColumn": 12,
-                    "endOffset": 116665
+                    "startOffset": 116310,
+                    "endColumn": 105,
+                    "endOffset": 116411
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1506,
+                    "startColumn": 4,
+                    "startOffset": 116416,
+                    "endColumn": 91,
+                    "endOffset": 116503
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1507,
+                    "startColumn": 4,
+                    "startOffset": 116508,
+                    "endColumn": 103,
+                    "endOffset": 116607
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1508,
+                    "startColumn": 4,
+                    "startOffset": 116612,
+                    "endColumn": 109,
+                    "endOffset": 116717
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5572,10 +5580,10 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 116670,
-                    "endLine": 1512,
+                    "startOffset": 116722,
+                    "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 116822
+                    "endOffset": 116839
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5583,71 +5591,25 @@
             },
             {
                 "to": {
-                    "startLine": 1513,
+                    "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 116827,
-                    "endColumn": 59,
-                    "endOffset": 116882
+                    "startOffset": 116844,
+                    "endLine": 1514,
+                    "endColumn": 12,
+                    "endOffset": 117002
                 },
                 "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1514,
-                    "startColumn": 4,
-                    "startOffset": 116887,
-                    "endColumn": 52,
-                    "endOffset": 116935
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 116940,
-                    "endColumn": 79,
-                    "endOffset": 117015
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1516,
-                    "startColumn": 4,
-                    "startOffset": 117020,
-                    "endColumn": 99,
-                    "endOffset": 117115
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1517,
-                    "startColumn": 4,
-                    "startOffset": 117120,
-                    "endColumn": 89,
-                    "endOffset": 117205
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1518,
-                    "startColumn": 4,
-                    "startOffset": 117210,
-                    "endColumn": 109,
-                    "endOffset": 117315
+                    "startOffset": 117007,
+                    "endLine": 1518,
+                    "endColumn": 12,
+                    "endOffset": 117159
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5657,33 +5619,33 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 117320,
-                    "endColumn": 93,
-                    "endOffset": 117409
+                    "startOffset": 117164,
+                    "endColumn": 59,
+                    "endOffset": 117219
                 },
                 "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 117414,
-                    "endColumn": 105,
-                    "endOffset": 117515
+                    "startOffset": 117224,
+                    "endColumn": 52,
+                    "endOffset": 117272
                 },
                 "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 117520,
-                    "endColumn": 91,
-                    "endOffset": 117607
+                    "startOffset": 117277,
+                    "endColumn": 79,
+                    "endOffset": 117352
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5693,30 +5655,94 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 117612,
-                    "endLine": 1528,
-                    "endColumn": 12,
-                    "endOffset": 118014
+                    "startOffset": 117357,
+                    "endColumn": 99,
+                    "endOffset": 117452
                 },
                 "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 741,
-                        "endLine": 23,
-                        "endColumn": 12,
-                        "endOffset": 1143
-                    }
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
                 }
             },
             {
                 "to": {
-                    "startLine": 1529,
+                    "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 118019,
+                    "startOffset": 117457,
+                    "endColumn": 89,
+                    "endOffset": 117542
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1524,
+                    "startColumn": 4,
+                    "startOffset": 117547,
+                    "endColumn": 109,
+                    "endOffset": 117652
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1525,
+                    "startColumn": 4,
+                    "startOffset": 117657,
+                    "endColumn": 93,
+                    "endOffset": 117746
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1526,
+                    "startColumn": 4,
+                    "startOffset": 117751,
+                    "endColumn": 105,
+                    "endOffset": 117852
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1527,
+                    "startColumn": 4,
+                    "startOffset": 117857,
+                    "endColumn": 91,
+                    "endOffset": 117944
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1528,
+                    "startColumn": 4,
+                    "startOffset": 117949,
+                    "endLine": 1535,
+                    "endColumn": 12,
+                    "endOffset": 118426
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1536,
+                    "startColumn": 4,
+                    "startOffset": 118431,
                     "endColumn": 26,
-                    "endOffset": 118041
+                    "endOffset": 118453
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
@@ -5724,12 +5750,12 @@
             },
             {
                 "to": {
-                    "startLine": 1530,
+                    "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 118046,
-                    "endLine": 1531,
+                    "startOffset": 118458,
+                    "endLine": 1538,
                     "endColumn": 12,
-                    "endOffset": 118141
+                    "endOffset": 118553
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5737,63 +5763,12 @@
             },
             {
                 "to": {
-                    "startLine": 1532,
+                    "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 118146,
-                    "endLine": 1533,
+                    "startOffset": 118558,
+                    "endLine": 1540,
                     "endColumn": 12,
-                    "endOffset": 118253
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1534,
-                    "startColumn": 4,
-                    "startOffset": 118258,
-                    "endLine": 1535,
-                    "endColumn": 12,
-                    "endOffset": 118367
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1536,
-                    "startColumn": 4,
-                    "startOffset": 118372,
-                    "endLine": 1537,
-                    "endColumn": 12,
-                    "endOffset": 118483
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1538,
-                    "startColumn": 4,
-                    "startOffset": 118488,
-                    "endLine": 1539,
-                    "endColumn": 12,
-                    "endOffset": 118599
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1540,
-                    "startColumn": 4,
-                    "startOffset": 118604,
-                    "endColumn": 93,
-                    "endOffset": 118693
+                    "endOffset": 118665
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5803,21 +5778,10 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 118698,
-                    "endColumn": 113,
-                    "endOffset": 118807
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1542,
-                    "startColumn": 4,
-                    "startOffset": 118812,
-                    "endColumn": 111,
-                    "endOffset": 118919
+                    "startOffset": 118670,
+                    "endLine": 1542,
+                    "endColumn": 12,
+                    "endOffset": 118779
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5827,10 +5791,10 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 118924,
+                    "startOffset": 118784,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 119021
+                    "endOffset": 118895
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5840,10 +5804,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 119026,
+                    "startOffset": 118900,
                     "endLine": 1546,
                     "endColumn": 12,
-                    "endOffset": 119141
+                    "endOffset": 119011
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5853,10 +5817,21 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 119146,
-                    "endLine": 1548,
-                    "endColumn": 12,
-                    "endOffset": 119263
+                    "startOffset": 119016,
+                    "endColumn": 93,
+                    "endOffset": 119105
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1548,
+                    "startColumn": 4,
+                    "startOffset": 119110,
+                    "endColumn": 113,
+                    "endOffset": 119219
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5866,9 +5841,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 119268,
-                    "endColumn": 81,
-                    "endOffset": 119345
+                    "startOffset": 119224,
+                    "endColumn": 111,
+                    "endOffset": 119331
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5878,21 +5853,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 119350,
-                    "endColumn": 103,
-                    "endOffset": 119449
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1551,
-                    "startColumn": 4,
-                    "startOffset": 119454,
-                    "endColumn": 119,
-                    "endOffset": 119569
+                    "startOffset": 119336,
+                    "endLine": 1551,
+                    "endColumn": 12,
+                    "endOffset": 119433
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5902,21 +5866,10 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 119574,
-                    "endColumn": 125,
-                    "endOffset": 119695
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1553,
-                    "startColumn": 4,
-                    "startOffset": 119700,
-                    "endColumn": 97,
-                    "endOffset": 119793
+                    "startOffset": 119438,
+                    "endLine": 1553,
+                    "endColumn": 12,
+                    "endOffset": 119553
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5926,21 +5879,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 119798,
-                    "endColumn": 93,
-                    "endOffset": 119887
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1555,
-                    "startColumn": 4,
-                    "startOffset": 119892,
-                    "endColumn": 87,
-                    "endOffset": 119975
+                    "startOffset": 119558,
+                    "endLine": 1555,
+                    "endColumn": 12,
+                    "endOffset": 119675
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5950,9 +5892,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 119980,
-                    "endColumn": 111,
-                    "endOffset": 120087
+                    "startOffset": 119680,
+                    "endColumn": 81,
+                    "endOffset": 119757
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5962,9 +5904,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 120092,
-                    "endColumn": 115,
-                    "endOffset": 120203
+                    "startOffset": 119762,
+                    "endColumn": 103,
+                    "endOffset": 119861
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5974,9 +5916,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 120208,
-                    "endColumn": 121,
-                    "endOffset": 120325
+                    "startOffset": 119866,
+                    "endColumn": 119,
+                    "endOffset": 119981
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5986,9 +5928,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 120330,
-                    "endColumn": 111,
-                    "endOffset": 120437
+                    "startOffset": 119986,
+                    "endColumn": 125,
+                    "endOffset": 120107
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -5998,10 +5940,33 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 120442,
-                    "endLine": 1562,
-                    "endColumn": 12,
-                    "endOffset": 120612
+                    "startOffset": 120112,
+                    "endColumn": 97,
+                    "endOffset": 120205
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1561,
+                    "startColumn": 4,
+                    "startOffset": 120210,
+                    "endColumn": 93,
+                    "endOffset": 120299
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1562,
+                    "startColumn": 4,
+                    "startOffset": 120304,
+                    "endColumn": 87,
+                    "endOffset": 120387
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6011,9 +5976,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 120617,
-                    "endColumn": 115,
-                    "endOffset": 120728
+                    "startOffset": 120392,
+                    "endColumn": 111,
+                    "endOffset": 120499
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6023,9 +5988,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 120733,
-                    "endColumn": 85,
-                    "endOffset": 120814
+                    "startOffset": 120504,
+                    "endColumn": 115,
+                    "endOffset": 120615
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6035,9 +6000,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 120819,
-                    "endColumn": 91,
-                    "endOffset": 120906
+                    "startOffset": 120620,
+                    "endColumn": 121,
+                    "endOffset": 120737
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6047,10 +6012,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 120911,
-                    "endLine": 1567,
-                    "endColumn": 12,
-                    "endOffset": 121018
+                    "startOffset": 120742,
+                    "endColumn": 111,
+                    "endOffset": 120849
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6058,12 +6022,12 @@
             },
             {
                 "to": {
-                    "startLine": 1568,
+                    "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 121023,
+                    "startOffset": 120854,
                     "endLine": 1569,
                     "endColumn": 12,
-                    "endOffset": 121142
+                    "endOffset": 121024
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6073,9 +6037,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 121147,
-                    "endColumn": 66,
-                    "endOffset": 121209
+                    "startOffset": 121029,
+                    "endColumn": 115,
+                    "endOffset": 121140
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6085,10 +6049,21 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 121214,
-                    "endLine": 1572,
-                    "endColumn": 12,
-                    "endOffset": 121335
+                    "startOffset": 121145,
+                    "endColumn": 85,
+                    "endOffset": 121226
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1572,
+                    "startColumn": 4,
+                    "startOffset": 121231,
+                    "endColumn": 91,
+                    "endOffset": 121318
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6098,9 +6073,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 121340,
-                    "endColumn": 67,
-                    "endOffset": 121403
+                    "startOffset": 121323,
+                    "endLine": 1574,
+                    "endColumn": 12,
+                    "endOffset": 121430
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6108,12 +6084,12 @@
             },
             {
                 "to": {
-                    "startLine": 1574,
+                    "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 121408,
-                    "endLine": 1575,
+                    "startOffset": 121435,
+                    "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 121531
+                    "endOffset": 121554
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6121,12 +6097,11 @@
             },
             {
                 "to": {
-                    "startLine": 1576,
+                    "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 121536,
-                    "endLine": 1577,
-                    "endColumn": 12,
-                    "endOffset": 121675
+                    "startOffset": 121559,
+                    "endColumn": 66,
+                    "endOffset": 121621
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6136,10 +6111,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 121680,
+                    "startOffset": 121626,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 121803
+                    "endOffset": 121747
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6149,9 +6124,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 121808,
-                    "endColumn": 68,
-                    "endOffset": 121872
+                    "startOffset": 121752,
+                    "endColumn": 67,
+                    "endOffset": 121815
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6161,21 +6136,10 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 121877,
-                    "endColumn": 94,
-                    "endOffset": 121967
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1582,
-                    "startColumn": 4,
-                    "startOffset": 121972,
-                    "endColumn": 114,
-                    "endOffset": 122082
+                    "startOffset": 121820,
+                    "endLine": 1582,
+                    "endColumn": 12,
+                    "endOffset": 121943
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6185,21 +6149,10 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 122087,
-                    "endColumn": 112,
-                    "endOffset": 122195
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1584,
-                    "startColumn": 4,
-                    "startOffset": 122200,
-                    "endColumn": 98,
-                    "endOffset": 122294
+                    "startOffset": 121948,
+                    "endLine": 1584,
+                    "endColumn": 12,
+                    "endOffset": 122087
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6209,21 +6162,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 122299,
-                    "endColumn": 108,
-                    "endOffset": 122403
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1586,
-                    "startColumn": 4,
-                    "startOffset": 122408,
-                    "endColumn": 110,
-                    "endOffset": 122514
+                    "startOffset": 122092,
+                    "endLine": 1586,
+                    "endColumn": 12,
+                    "endOffset": 122215
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6233,9 +6175,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 122519,
-                    "endColumn": 110,
-                    "endOffset": 122625
+                    "startOffset": 122220,
+                    "endColumn": 68,
+                    "endOffset": 122284
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6245,9 +6187,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 122630,
-                    "endColumn": 100,
-                    "endOffset": 122726
+                    "startOffset": 122289,
+                    "endColumn": 94,
+                    "endOffset": 122379
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6257,9 +6199,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 122731,
-                    "endColumn": 104,
-                    "endOffset": 122831
+                    "startOffset": 122384,
+                    "endColumn": 114,
+                    "endOffset": 122494
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6269,9 +6211,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 122836,
-                    "endColumn": 99,
-                    "endOffset": 122931
+                    "startOffset": 122499,
+                    "endColumn": 112,
+                    "endOffset": 122607
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6281,10 +6223,21 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 122936,
-                    "endLine": 1592,
-                    "endColumn": 12,
-                    "endOffset": 123061
+                    "startOffset": 122612,
+                    "endColumn": 98,
+                    "endOffset": 122706
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1592,
+                    "startColumn": 4,
+                    "startOffset": 122711,
+                    "endColumn": 108,
+                    "endOffset": 122815
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6294,9 +6247,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 123066,
-                    "endColumn": 90,
-                    "endOffset": 123152
+                    "startOffset": 122820,
+                    "endColumn": 110,
+                    "endOffset": 122926
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6306,9 +6259,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 123157,
-                    "endColumn": 122,
-                    "endOffset": 123275
+                    "startOffset": 122931,
+                    "endColumn": 110,
+                    "endOffset": 123037
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6318,9 +6271,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 123280,
-                    "endColumn": 93,
-                    "endOffset": 123369
+                    "startOffset": 123042,
+                    "endColumn": 100,
+                    "endOffset": 123138
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6330,10 +6283,21 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 123374,
-                    "endLine": 1597,
-                    "endColumn": 12,
-                    "endOffset": 123481
+                    "startOffset": 123143,
+                    "endColumn": 104,
+                    "endOffset": 123243
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1597,
+                    "startColumn": 4,
+                    "startOffset": 123248,
+                    "endColumn": 99,
+                    "endOffset": 123343
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6343,21 +6307,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 123486,
-                    "endColumn": 85,
-                    "endOffset": 123567
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1599,
-                    "startColumn": 4,
-                    "startOffset": 123572,
-                    "endColumn": 103,
-                    "endOffset": 123671
+                    "startOffset": 123348,
+                    "endLine": 1599,
+                    "endColumn": 12,
+                    "endOffset": 123473
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6367,9 +6320,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 123676,
-                    "endColumn": 95,
-                    "endOffset": 123767
+                    "startOffset": 123478,
+                    "endColumn": 90,
+                    "endOffset": 123564
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6379,9 +6332,9 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 123772,
-                    "endColumn": 87,
-                    "endOffset": 123855
+                    "startOffset": 123569,
+                    "endColumn": 122,
+                    "endOffset": 123687
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6391,10 +6344,9 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 123860,
-                    "endLine": 1603,
-                    "endColumn": 12,
-                    "endOffset": 123973
+                    "startOffset": 123692,
+                    "endColumn": 93,
+                    "endOffset": 123781
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6402,12 +6354,24 @@
             },
             {
                 "to": {
-                    "startLine": 1604,
+                    "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 123978,
-                    "endLine": 1605,
+                    "startOffset": 123786,
+                    "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 124077
+                    "endOffset": 123893
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1605,
+                    "startColumn": 4,
+                    "startOffset": 123898,
+                    "endColumn": 85,
+                    "endOffset": 123979
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6417,10 +6381,21 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 124082,
-                    "endLine": 1607,
-                    "endColumn": 12,
-                    "endOffset": 124181
+                    "startOffset": 123984,
+                    "endColumn": 103,
+                    "endOffset": 124083
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1607,
+                    "startColumn": 4,
+                    "startOffset": 124088,
+                    "endColumn": 95,
+                    "endOffset": 124179
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6430,10 +6405,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 124186,
-                    "endLine": 1609,
-                    "endColumn": 12,
-                    "endOffset": 124307
+                    "startOffset": 124184,
+                    "endColumn": 87,
+                    "endOffset": 124267
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6441,11 +6415,12 @@
             },
             {
                 "to": {
-                    "startLine": 1610,
+                    "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 124312,
-                    "endColumn": 87,
-                    "endOffset": 124395
+                    "startOffset": 124272,
+                    "endLine": 1610,
+                    "endColumn": 12,
+                    "endOffset": 124385
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6455,21 +6430,10 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 124400,
-                    "endColumn": 107,
-                    "endOffset": 124503
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1612,
-                    "startColumn": 4,
-                    "startOffset": 124508,
-                    "endColumn": 99,
-                    "endOffset": 124603
+                    "startOffset": 124390,
+                    "endLine": 1612,
+                    "endColumn": 12,
+                    "endOffset": 124489
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6479,21 +6443,10 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 124608,
-                    "endColumn": 89,
-                    "endOffset": 124693
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1614,
-                    "startColumn": 4,
-                    "startOffset": 124698,
-                    "endColumn": 109,
-                    "endOffset": 124803
+                    "startOffset": 124494,
+                    "endLine": 1614,
+                    "endColumn": 12,
+                    "endOffset": 124593
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6503,21 +6456,10 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 124808,
-                    "endColumn": 83,
-                    "endOffset": 124887
-                },
-                "from": {
-                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 1616,
-                    "startColumn": 4,
-                    "startOffset": 124892,
-                    "endColumn": 101,
-                    "endOffset": 124989
+                    "startOffset": 124598,
+                    "endLine": 1616,
+                    "endColumn": 12,
+                    "endOffset": 124719
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6527,9 +6469,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 124994,
-                    "endColumn": 83,
-                    "endOffset": 125073
+                    "startOffset": 124724,
+                    "endColumn": 87,
+                    "endOffset": 124807
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6539,9 +6481,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 125078,
-                    "endColumn": 53,
-                    "endOffset": 125127
+                    "startOffset": 124812,
+                    "endColumn": 107,
+                    "endOffset": 124915
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6551,9 +6493,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 125132,
-                    "endColumn": 63,
-                    "endOffset": 125191
+                    "startOffset": 124920,
+                    "endColumn": 99,
+                    "endOffset": 125015
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6563,9 +6505,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 125196,
-                    "endColumn": 105,
-                    "endOffset": 125297
+                    "startOffset": 125020,
+                    "endColumn": 89,
+                    "endOffset": 125105
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6575,9 +6517,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 125302,
+                    "startOffset": 125110,
                     "endColumn": 109,
-                    "endOffset": 125407
+                    "endOffset": 125215
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6587,9 +6529,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 125412,
+                    "startOffset": 125220,
                     "endColumn": 83,
-                    "endOffset": 125491
+                    "endOffset": 125299
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6599,9 +6541,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 125496,
-                    "endColumn": 119,
-                    "endOffset": 125611
+                    "startOffset": 125304,
+                    "endColumn": 101,
+                    "endOffset": 125401
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
@@ -6611,10 +6553,94 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 125616,
-                    "endLine": 1627,
+                    "startOffset": 125406,
+                    "endColumn": 83,
+                    "endOffset": 125485
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1625,
+                    "startColumn": 4,
+                    "startOffset": 125490,
+                    "endColumn": 53,
+                    "endOffset": 125539
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1626,
+                    "startColumn": 4,
+                    "startOffset": 125544,
+                    "endColumn": 63,
+                    "endOffset": 125603
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1627,
+                    "startColumn": 4,
+                    "startOffset": 125608,
+                    "endColumn": 105,
+                    "endOffset": 125709
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1628,
+                    "startColumn": 4,
+                    "startOffset": 125714,
+                    "endColumn": 109,
+                    "endOffset": 125819
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1629,
+                    "startColumn": 4,
+                    "startOffset": 125824,
+                    "endColumn": 83,
+                    "endOffset": 125903
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1630,
+                    "startColumn": 4,
+                    "startOffset": 125908,
+                    "endColumn": 119,
+                    "endOffset": 126023
+                },
+                "from": {
+                    "file": "/Users/jerry/projects/android-Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res/values/values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1631,
+                    "startColumn": 4,
+                    "startOffset": 126028,
+                    "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 125807
+                    "endOffset": 126219
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
@@ -6622,12 +6648,12 @@
             },
             {
                 "to": {
-                    "startLine": 1628,
+                    "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 125812,
-                    "endLine": 1633,
+                    "startOffset": 126224,
+                    "endLine": 1640,
                     "endColumn": 12,
-                    "endOffset": 126085
+                    "endOffset": 126497
                 },
                 "from": {
                     "file": "/Users/jerry/projects/android-Camera2Basic/Application/src/main/res/values/template-styles.xml"
