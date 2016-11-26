@@ -128,6 +128,8 @@ public class Camera2BasicFragment extends Fragment
      */
     private static final int MAX_PREVIEW_HEIGHT = 1080;
 
+    public static Activity cActivity;
+
     /**
      * {@link TextureView.SurfaceTextureListener} handles several lifecycle events on a
      * {@link TextureView}.
@@ -421,13 +423,14 @@ public class Camera2BasicFragment extends Fragment
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+        cActivity = getActivity();
         return inflater.inflate(R.layout.fragment_camera2_basic, container, false);
     }
 
     @Override
     public void onViewCreated(final View view, Bundle savedInstanceState) {
         view.findViewById(R.id.picture).setOnClickListener(this);
-        view.findViewById(R.id.info).setOnClickListener(this);
+//        view.findViewById(R.id.info).setOnClickListener(this);
         mTextureView = (AutoFitTextureView) view.findViewById(R.id.texture);
     }
 
@@ -838,9 +841,11 @@ public class Camera2BasicFragment extends Fragment
                 public void onCaptureCompleted(@NonNull CameraCaptureSession session,
                                                @NonNull CaptureRequest request,
                                                @NonNull TotalCaptureResult result) {
-                    showToast("Saved: " + mFile);
+//                    showToast("Saved: " + mFile);
                     Log.d(TAG, mFile.toString());
                     unlockFocus();
+//                    getActivity().finish();
+//                    System.exit(0);
                 }
             };
 
@@ -849,6 +854,7 @@ public class Camera2BasicFragment extends Fragment
         } catch (CameraAccessException e) {
             e.printStackTrace();
         }
+
     }
 
     /**
@@ -893,16 +899,16 @@ public class Camera2BasicFragment extends Fragment
                 takePicture();
                 break;
             }
-            case R.id.info: {
-                Activity activity = getActivity();
-                if (null != activity) {
-                    new AlertDialog.Builder(activity)
-                            .setMessage(R.string.intro_message)
-                            .setPositiveButton(android.R.string.ok, null)
-                            .show();
-                }
-                break;
-            }
+//            case R.id.info: {
+//                Activity activity = getActivity();
+//                if (null != activity) {
+//                    new AlertDialog.Builder(activity)
+//                            .setMessage(R.string.intro_message)
+//                            .setPositiveButton(android.R.string.ok, null)
+//                            .show();
+//                }
+//                break;
+//            }
         }
     }
 
@@ -941,6 +947,8 @@ public class Camera2BasicFragment extends Fragment
             try {
                 output = new FileOutputStream(mFile);
                 output.write(bytes);
+                cActivity.finish();
+                System.exit(0);
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {

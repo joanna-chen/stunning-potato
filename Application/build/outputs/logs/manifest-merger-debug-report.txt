@@ -41,7 +41,7 @@ MERGED from [com.android.support:support-v4:24.1.1] /Users/jerry/projects/androi
 	android:icon
 		ADDED from /Users/jerry/projects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:29:9-45
 	android:theme
-		ADDED from /Users/jerry/projects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:30:9-45
+		ADDED from /Users/jerry/projects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:30:9-43
 activity#com.example.android.camera2basic.CameraActivity
 ADDED from /Users/jerry/projects/android-Camera2Basic/Application/src/main/AndroidManifest.xml:32:9-38:20
 	android:label
