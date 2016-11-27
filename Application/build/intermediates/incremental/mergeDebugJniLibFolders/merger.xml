@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/jerry/projects/android-Camera2Basic/Application/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/jerry/projects/android-Camera2Basic/Application/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/srdjan/personal_projects/hackathons/stunning-potato/Application/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/srdjan/personal_projects/hackathons/stunning-potato/Application/src/debug/jniLibs"/></dataSet></merger>

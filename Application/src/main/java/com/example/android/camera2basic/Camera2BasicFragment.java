@@ -24,6 +24,7 @@ import android.app.DialogFragment;
 import android.app.Fragment;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.ImageFormat;
@@ -43,10 +44,12 @@ import android.hardware.camera2.TotalCaptureResult;
 import android.hardware.camera2.params.StreamConfigurationMap;
 import android.media.Image;
 import android.media.ImageReader;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
 import android.support.v13.app.FragmentCompat;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
@@ -81,6 +84,8 @@ public class Camera2BasicFragment extends Fragment
     private static final SparseIntArray ORIENTATIONS = new SparseIntArray();
     private static final int REQUEST_CAMERA_PERMISSION = 1;
     private static final String FRAGMENT_DIALOG = "dialog";
+
+    private static Context sContext;
 
     static {
         ORIENTATIONS.append(Surface.ROTATION_0, 90);
@@ -435,6 +440,7 @@ public class Camera2BasicFragment extends Fragment
         mTextureView = (AutoFitTextureView) view.findViewById(R.id.texture);
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
@@ -442,7 +448,10 @@ public class Camera2BasicFragment extends Fragment
 
         Long tsLong = System.currentTimeMillis();
         String ts =  tsLong.toString();
-        mFile = new File(getActivity().getExternalFilesDir(null), ts + "pic.jpg");
+        mFile = new File(getActivity().getExternalFilesDir(null), "pic.jpg");
+
+        sContext = this.getContext();
+
     }
 
     @Override
@@ -927,7 +936,7 @@ public class Camera2BasicFragment extends Fragment
     /**
      * Saves a JPEG {@link Image} into the specified {@link File}.
      */
-    private static class ImageSaver implements Runnable {
+    private class ImageSaver implements Runnable {
 
         /**
          * The JPEG image
@@ -952,8 +961,19 @@ public class Camera2BasicFragment extends Fragment
             try {
                 output = new FileOutputStream(mFile);
                 output.write(bytes);
-                cActivity.finish();
-                System.exit(0);
+
+                Log.w(TAG, "before intent");
+
+                Intent mailIntent = new Intent(sContext, MainActivity.class);
+
+                Log.w(TAG, "in betweeen");
+
+                startActivity(mailIntent);
+
+                Log.w(TAG, "saved");
+
+//                cActivity.finish();
+//                System.exit(0);
             } catch (IOException e) {
                 e.printStackTrace();
             } finally {
